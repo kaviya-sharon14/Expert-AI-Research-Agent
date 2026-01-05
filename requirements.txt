@@ -6,3 +6,4 @@ sentence-transformers
 faiss-cpu
 pypdf
 pandas
+langchain-text-splitters
