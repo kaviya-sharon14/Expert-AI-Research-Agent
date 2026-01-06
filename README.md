@@ -42,6 +42,8 @@ UI Framework: Streamlit
 
 Data Handling: Pandas
 
+   - Use the sample PDF provided in the `data/` folder to test the RAG retrieval and logging functionality.
+
 Quick Start
 Clone the Repo:
 
