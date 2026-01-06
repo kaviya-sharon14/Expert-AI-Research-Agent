@@ -1,5 +1,5 @@
  Live Demo
-![App Interface](image_fd68ac.png)
+![App Interface](https://raw.githubusercontent.com/kaviya-sharon14/Expert-AI-Research-Agent/main/image_fd68ac.png)
 Title: Enterprise Document Intelligence & Automated Auditing System.
 
 The Challenge: 
