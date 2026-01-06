@@ -1,5 +1,5 @@
  Live Demo
-![Application Interface](app_screenshot.png)
+![App Interface](image_fd68ac.png)
 Title: Enterprise Document Intelligence & Automated Auditing System.
 
 The Challenge: 
